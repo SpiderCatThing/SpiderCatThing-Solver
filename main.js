@@ -66,7 +66,7 @@
 
         panel.innerHTML = `
             <div style="font-weight: bold; margin-bottom: 10px; text-align: center; font-size: 16px;">
-                🐢 Turtle Solver
+                Aura Solver
             </div>
             <button id="turtle-toggle" style="
                 width: 100%;
